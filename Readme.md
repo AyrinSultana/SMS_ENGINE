@@ -59,6 +59,14 @@ This project has been refactored to follow Laravel's MVC pattern for better main
 6. Run `php artisan serve`
 
 ## Usage
+<img width="1429" height="769" alt="CreateSMSTemplate" src="https://github.com/user-attachments/assets/6c3e5a22-0072-49eb-94db-80811a9021f9" />
+<img width="1475" height="762" alt="TemplateManagement" src="https://github.com/user-attachments/assets/d04b527d-3254-4174-9018-1e78aae91a7b" />
+<img width="1482" height="763" alt="TemplateApprovalQueue" src="https://github.com/user-attachments/assets/1693f104-3780-46b7-b2bf-6cf75934427b" />
+<img width="1492" height="740" alt="SelectSMSSendingMethod" src="https://github.com/user-attachments/assets/bacab321-8775-49e8-998e-9989087c40f6" />
+<img width="1434" height="769" alt="SMSQueueStatus" src="https://github.com/user-attachments/assets/870bbaff-fdce-4827-a36e-610e73db1f31" />
+<img width="1438" height="742" alt="SMSApprovalQueue" src="https://github.com/user-attachments/assets/f4ec6c7d-4b4c-4209-b9c0-a09d1da5f21b" />
+<img width="1434" height="765" alt="SMSHistory" src="https://github.com/user-attachments/assets/d9d54df5-2d97-4df6-a292-a774026d927f" />
+
 
 ### Sending SMS
 
