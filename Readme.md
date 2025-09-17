@@ -1,6 +1,6 @@
 # SMS Engine - Laravel MVC Architecture
 
-This project has been refactored to follow Laravel's MVC pattern for better maintainability and extensibility.
+This project follows Laravel's MVC pattern for better maintainability and extensibility.
 
 ## Architecture Overview
 
